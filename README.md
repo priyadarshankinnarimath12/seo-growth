@@ -45,7 +45,7 @@ Build organic discovery across **brand, local, franchise, and product-related se
 
 ### Results
 - **536K+** search impressions
-- **3,486** organic clicks
+- **3,623** organic clicks
 - **6.79** average position
 - **1,041** backlinks
 - **123** referring domains
